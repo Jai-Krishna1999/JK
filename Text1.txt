@@ -1,0 +1,5 @@
+Application Name: Git Practice
+Version: 1.0
+Environment: Development
+Status: Running
+Developer: Jai
